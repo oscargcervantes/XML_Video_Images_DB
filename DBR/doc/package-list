@@ -1,0 +1,11 @@
+
+edu.lsivc.String
+edu.lsivc.analysis
+edu.lsivc.client
+edu.lsivc.directory
+edu.lsivc.index
+edu.lsivc.jdbc
+edu.lsivc.search
+edu.lsivc.server
+edu.lsivc.transfer
+edu.lsivc.xml
